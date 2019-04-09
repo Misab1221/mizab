@@ -1,2 +1,2 @@
 # mizab
-There Is a chenge occured
+There Is a change occured
